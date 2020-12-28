@@ -1,0 +1,30 @@
+package net.classic.mlhj.mlhjbackend.lm.adjectives;
+
+public enum Struck {
+    bludgeoned,
+    bashed,
+    slashed,
+    smashed,
+    throttled,
+    punctured,
+    impaled,
+    harpooned,
+    skewered,
+    gored,
+    perforated,
+    hacked,
+    anatomized,
+    minced,
+    mutilated,
+    vivisected,
+    smote,
+    mauled,
+    pounded,
+    battered,
+    hammered,
+    thrashed,
+    cudgeled,
+    whacked,
+    walloped,
+    clobbered
+}
